@@ -1,1 +1,5 @@
-
+.shell {
+  background: repeating-linear-gradient(
+    to right,
+    45deg,
+    #2628ad, #0c0726 50px);
