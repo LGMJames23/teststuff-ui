@@ -2,4 +2,10 @@
   background: repeating-linear-gradient(
     to right,
     45deg,
-    #2628ad, #0c0726 50px);
+    ##e8a5e6, #ffffff  50px);
+#pentagons{
+opacity: 0.8;
+background-image: conic-gradient(from 60deg at 56.25% calc(425% / 6), transparent 0deg, transparent 0.5deg, #0a061c  0.5deg, #0a061c  119.5deg, transparent 119.5deg, transparent 120deg), conic-gradient(from 60deg at 56.25% calc(425% / 6), transparent 0deg, transparent 0.5deg, #0a061c  0.5deg, #0a061c  119.5deg, transparent 119.5deg, transparent 120deg), conic-gradient(from 180deg at 43.75% calc(425% / 6), transparent 0deg, transparent 0.5deg, #0a061c  0.5deg, #0a061c  119.5deg, transparent 119.5deg, transparent 120deg), conic-gradient(from 180deg at 43.75% calc(425% / 6), transparent 0deg, transparent 0.5deg, #0a061c  0.5deg, #0a061c  119.5deg, transparent 119.5deg, transparent 120deg), conic-gradient(from -60deg at 50% calc(175% / 12), transparent 0deg, transparent 0.5deg, #0a061c  0.5deg, #0a061c  119.5deg, transparent 119.5deg, transparent 120deg), conic-gradient(from -60deg at 50% calc(175% / 12), transparent 0deg, transparent 0.5deg, #0a061c  0.5deg, #0a061c  119.5deg, transparent 119.5deg, transparent 120deg);
+background-position: 0 0, 10px 17px, 0 0, 10px 17px, 10px 0, 0 17px;
+background-size: 20px 34px;
+}
