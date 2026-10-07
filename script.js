@@ -1,2 +1,2 @@
-const background = doucument.getElementById("main")
+const background = doucument.getElementById("main");
 
